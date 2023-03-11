@@ -177,5 +177,11 @@ Based on the finding that Drama is the genre with the most movies produced, Micr
  
  ***
 
- 
+ ## Next Steps
+
+ * Study the impact of release date and marketing on a movie's success.
+
+ * Analyze the impact of actors and directors on the success of a movie.
+
+ * Analyze budget ROI (Return on Investment) for successful movies.
 
