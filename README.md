@@ -54,3 +54,42 @@ We also have two other datasets that I won't be exploring but were provided for 
    1. [The Numbers](https://www.the-numbers.com/)
 
  2. [Rotten Tomatoes](https://www.rottentomatoes.com/)
+
+## Data Preparation
+
+The process consist of :
+
+* Importing the libraries and modules
+
+* Accessing and reading each dataframe
+
+* Joining SQL tables
+
+* Merging datasets
+
+* Dropping missing values
+
+* Creating new columns
+
+* Creating new datasets
+
+* Dropping uneccessary data and columns.
+
+***
+
+For The Movie DB Dataset we are only interested in only two columns.
+
+Also for the Box office Mojo Dataset we are interested in two columns that is <span style="background-color: #3d3d3d; color: #ffffff; padding: 2px 5px; border-radius: 3px;">title</span> and <span style="background-color: #3d3d3d; color: #ffffff; padding: 2px 5px; border-radius: 3px;">domestic_gross.</span> We are going to create a new column <span style="background-color: #3d3d3d; color: #ffffff; padding: 2px 5px; border-radius: 3px;">gross_mil</span> which is earning per million and will be replacing our <span style="background-color: #3d3d3d; color: #ffffff; padding: 2px 5px; border-radius: 3px;">domestic_gross.</span>
+
+We are going to be merging the two SQL tables that is <span style="background-color: #3d3d3d; color: #ffffff; padding: 2px 5px; border-radius: 3px;">movie_basics</span> and <span style="background-color: #3d3d3d; color: #ffffff; padding: 2px 5px; border-radius: 3px;">movie_ratings</span> and form a new table <span style="background-color: #3d3d3d; color: #ffffff; padding: 2px 5px; border-radius: 3px;">imdb_ratings_basics.</span>
+
+We are going to merge three dataframes that is our newly formed <span style="background-color: #3d3d3d; color: #ffffff; padding: 2px 5px; border-radius: 3px;">imdb_ratings_basics</span>, <span style="background-color: #3d3d3d; color: #ffffff; padding: 2px 5px; border-radius: 3px;">tmdb_movies</span> and <span style="background-color: #3d3d3d; color: #ffffff; padding: 2px 5px; border-radius: 3px;">movie_gross</span> using the <span style="background-color: #3d3d3d; color: #ffffff; padding: 2px 5px; border-radius: 3px;">title</span> column as our key index to form our new dataframe namely <span style="background-color: #3d3d3d; color: #ffffff; padding: 2px 5px; border-radius: 3px;">Movies.</span>
+
+We are going to calculate the average rating of movies based on ratings from two different sources, IMDb and The Movie Database (TMDb), and stores the result in a new column called <span style="background-color: #3d3d3d; color: #ffffff; padding: 2px 5px; border-radius: 3px;">average_rating.</span>.
+
+`We created a subset called movies_mini. which I'm going to work with hence forth in my analysis. This new, smaller DataFrame contains only the most successful and well-received movies released in recent years.In particular, the 'movies_mini' DataFrame only contains movies with a rating of at least 7.0, gross earnings of at least 30 million dollars, and a release year after 2013. By filtering for these specific criteria, We can focus my analysis on the most profitable and critically acclaimed movies of recent years.`
+
+
+
+
+
