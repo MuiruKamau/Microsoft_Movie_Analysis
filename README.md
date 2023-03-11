@@ -190,7 +190,10 @@ Based on the finding that Drama is the genre with the most movies produced, Micr
  ## For More Information
 
  Please review our full analysis in our [Jupyter notebook](https://github.com/MuiruKamau/dsc-project-template/blob/template-mvp/dsc-phase1-project-template.ipynb)
- or our [presentation](https://github.com/MuiruKamau/dsc-project-template/blob/template-mvp/DS_Project_Presentation.pdf)
+ or our [presentation](https://github.com/MuiruKamau/dsc-project-template/blob/template-mvp/DS_Project_Presentation.pdf).
+
+ For any additional questions, please contact Muiru Kamau [Email Me](mailto:muirubensonkamau@gmail.com)
+
 
 
 
