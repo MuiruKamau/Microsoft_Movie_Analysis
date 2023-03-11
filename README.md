@@ -4,5 +4,5 @@
 
 ***
 
-![microsoft](dsc-project-template/images/director_shot.jpeg)
+![microsoft](images/director_shot.jpeg)
  
