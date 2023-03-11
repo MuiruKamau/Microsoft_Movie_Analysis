@@ -117,7 +117,21 @@ We created a new DataFrame called <span style="background-color: #3d3d3d; color:
 
 ## Results
 
-I evaluated each question individually.
+We evaluated each question individually.
 
+***
 
+### Question 1
+
+What are the genres that have historically produced the highest average gross earnings? 
+
+![microsoft](images/Average Gross Earnings per Genre.png)
+
+ * We can see that the genres of Sci-Fi, Animation, Adventure, Fantasy, and Action have historically generated the highest average gross earnings. 
+ 
+ * This suggests that movies within these genres tend to perform well. 
+ 
+ *  It may be worthwhile to invest in producing or distributing movies within these genres, as they are likely to have a higher chance of success.
+
+ ***
 
