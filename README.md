@@ -125,9 +125,10 @@ We evaluated each question individually.
 
 What are the genres that have historically produced the highest average gross earnings? 
 
-![average](images/Average Gross Earnings per Genre.png)
+![microsoft](images/msft-microsoft-logo-2-3.webp)
 
-dsc-project-template\images\Average Gross Earnings per Genre.png
+
+![average](dsc-project-template/images/Average Gross Earnings per Genre.png)
 
 
  * We can see that the genres of Sci-Fi, Animation, Adventure, Fantasy, and Action have historically generated the highest average gross earnings. 
