@@ -185,3 +185,12 @@ Based on the finding that Drama is the genre with the most movies produced, Micr
 
  * Analyze budget ROI (Return on Investment) for successful movies.
 
+ ***
+
+ ## For More Information
+
+ Please review our full analysis in our [Jupyter notebook](https://github.com/MuiruKamau/dsc-project-template/blob/template-mvp/dsc-phase1-project-template.ipynb)
+ or our [presentation](https://github.com/MuiruKamau/dsc-project-template/blob/template-mvp/DS_Project_Presentation.pdf)
+
+
+
