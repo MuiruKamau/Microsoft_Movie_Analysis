@@ -3,3 +3,5 @@
 **Authors:** Muiru Kamau
 
 ***
+
+![microsoft]( dsc-project-template/images/msft-microsoft-logo-2-3.webp)
