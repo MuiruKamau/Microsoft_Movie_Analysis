@@ -89,6 +89,13 @@ We are going to calculate the average rating of movies based on ratings from two
 
 `We created a subset called movies_mini. which I'm going to work with hence forth in my analysis. This new, smaller DataFrame contains only the most successful and well-received movies released in recent years.In particular, the 'movies_mini' DataFrame only contains movies with a rating of at least 7.0, gross earnings of at least 30 million dollars, and a release year after 2013. By filtering for these specific criteria, We can focus my analysis on the most profitable and critically acclaimed movies of recent years.`
 
+## Preparing our data for every question for modelling
+
+### Question one: Prepare average gross earning data
+
+
+We created a DataFrame called <span style="background-color: #3d3d3d; color: #ffffff; padding: 2px 5px; border-radius: 3px;">top_gross</span> that shows the average gross earnings for each movie genre in the movies_mini DataFrame.
+
 
 
 
