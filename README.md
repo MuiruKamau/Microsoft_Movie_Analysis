@@ -149,3 +149,13 @@ Adventure, Action, Comedy, Sci-fi, and Animation are the top grossing genres
 * Comedy movies tend to have lower production costs and can attract a wide audience, leading to higher profits.
 
 * Adventure, Action, and Sci-fi movies tend to have a higher budget and production value, which may contribute to their high earnings.
+
+### Question 4
+
+Which movie genre has the highest number of movies produced ?
+
+![movie](images/No%20_of_Movies_per_Genre.png)
+
+Based on the bar chart, the top 5 genres with the highest number of movies produced are Drama, Adventure, Action, Comedy, and Biography. Drama has the most number of movies produced, followed by Adventure and Action.
+
+Insights that can be drawn from this graph include understanding the distribution of movie genres in the dataset and identifying the genres that have been produced the most. This information can be useful for movie producers and studios to make informed decisions about which genres to invest in based on their popularity and demand.
