@@ -159,3 +159,5 @@ Which movie genre has the highest number of movies produced ?
 Based on the bar chart, the top 5 genres with the highest number of movies produced are Drama, Adventure, Action, Comedy, and Biography. Drama has the most number of movies produced, followed by Adventure and Action.
 
 Insights that can be drawn from this graph include understanding the distribution of movie genres in the dataset and identifying the genres that have been produced the most. This information can be useful for movie producers and studios to make informed decisions about which genres to invest in based on their popularity and demand.
+
+conclusion
