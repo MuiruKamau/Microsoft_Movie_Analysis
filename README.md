@@ -4,4 +4,5 @@
 
 ***
 
-![microsoft]( dsc-project-template/images/msft-microsoft-logo-2-3.webp)
+![microsoft](dsc-project-template/images/director_shot.jpeg)
+ 
