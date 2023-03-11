@@ -150,6 +150,8 @@ Adventure, Action, Comedy, Sci-fi, and Animation are the top grossing genres
 
 * Adventure, Action, and Sci-fi movies tend to have a higher budget and production value, which may contribute to their high earnings.
 
+***
+
 ### Question 4
 
 Which movie genre has the highest number of movies produced ?
@@ -160,4 +162,20 @@ Based on the bar chart, the top 5 genres with the highest number of movies produ
 
 Insights that can be drawn from this graph include understanding the distribution of movie genres in the dataset and identifying the genres that have been produced the most. This information can be useful for movie producers and studios to make informed decisions about which genres to invest in based on their popularity and demand.
 
-conclusion
+***
+
+## Conclusion
+
+I got three recommendations:
+
+ Based on the historical performance, it is recommended that Microsoft invest in producing Adventure, Action, and Comedy movies for sustained success in the long run. These genres have consistently shown the highest total gross earnings over time, indicating that audiences have a continued interest in these types of movies.
+
+
+ Based on the analysis of average gross earnings, Microsoft  should consider investing in genres that have historically generated the highest average gross earnings, such as Sci-Fi, Animation, Adventure.
+
+Based on the finding that Drama is the genre with the most movies produced, Microsoft could consider investing in this genre in order to increase the number of movies in their portfolio. Drama movies tend to have a wide range of sub-genres, which allows for creativity and diversity in storytelling. Additionally, with a large number of movies produced in this genre, it suggests that there is a consistent demand from audiences for drama films.
+ 
+ ***
+
+ 
+
