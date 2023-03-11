@@ -4,5 +4,5 @@
 
 ***
 
-![microsoft](images/director_shot.jpeg)
+![microsoft](images/msft-microsoft-logo-2-3.webp)
  
