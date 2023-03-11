@@ -13,3 +13,21 @@ The objective of this project is to analyze the current trends in the movie indu
 The project will begin by conducting a thorough analysis of data from Box office Mojo, IMDb and The movie Database for the 2014 - 2019 period, including revenue, genre. These insights will be used to develop a set of recommendations for Microsoft's new movie studio
 
 ***
+
+## Business Problem
+
+
+
+Business Problem: "Cracking the Code to Box Office Success: Genre Selection for Microsoft's New Movie Studio"
+
+The objective of this business problem is to determine the optimal genre(s) for Microsoft's new movie studio to produce in order to achieve commercial success at the box office.
+
+* Which genres have historically generated the highest average gross earnings?
+
+ * Which genres have received the highest average ratings from audiences and critics?
+
+* Which genres have the highest total gross earnings overall?
+
+* Which movie genre has the highest number of movies produced?
+
+***
