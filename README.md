@@ -136,3 +136,16 @@ What are the genres that have historically produced the highest average gross ea
 
  ***
 
+### Question 3
+
+Which genres have the highest total gross earning overall ?
+
+![highest](images/Total_Gross_Earnings_per_Genre.png)
+
+Adventure, Action, Comedy, Sci-fi, and Animation are the top grossing genres
+
+* Animation movies tend to have a wider audience demographic, including children and families, which can lead to higher ticket sales.
+
+* Comedy movies tend to have lower production costs and can attract a wide audience, leading to higher profits.
+
+* Adventure, Action, and Sci-fi movies tend to have a higher budget and production value, which may contribute to their high earnings.
