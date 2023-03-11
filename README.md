@@ -142,4 +142,4 @@ What are the genres that have historically produced the highest average gross ea
 ![average](images/msft-microsoft-logo-2-3.webp)
 
 ![Gross](images/director_shot.jpeg)
-![Gross](images/Total Gross Earnings per Genre.png)
+![Gross](images/No%20_of_Movies_per_Genre.png)
