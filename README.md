@@ -96,17 +96,20 @@ We are going to calculate the average rating of movies based on ratings from two
 
 We created a DataFrame called <span style="background-color: #3d3d3d; color: #ffffff; padding: 2px 5px; border-radius: 3px;">top_gross</span> that shows the average gross earnings for each movie genre in the movies_mini DataFrame.
 
+***
 ### Question two: Prepare average rating data
 
 
 We created a DataFrame called <span style="background-color: #3d3d3d; color: #ffffff; padding: 2px 5px; border-radius: 3px;">genre_ratings </span> that shows the average rating for each movie genre in the movies_mini DataFrame. The DataFrame only includes genres that have 7 or more ratings.
 
+***
 ### Question three: Prepare total gross earnings data
 
 We filtered the movies_mini DataFrame to only include movies with gross earnings greater than 150 million dollars and a release year after 2013. Then, we grouped the remaining data by genre and calculated the sum of gross earnings in millions for each genre. The resulting DataFrame was sorted by gross earnings in descending order and converted to display earnings in billions. Finally, we dropped the start_year column and displayed the updated gross_earnings DataFrame.
 
+***
 ### Question four: Prepare No of movies data
 
 We created a new DataFrame called <span style="background-color: #3d3d3d; color: #ffffff; padding: 2px 5px; border-radius: 3px;"> top_genre</span> by extracting only the 'genres' and 'title' columns from the movies_mini DataFrame. We then grouped the data by genre and counted the number of unique movie titles in each genre to get an idea of the number of movies in each genre. The resulting DataFrame was sorted by the number of movies in descending order. This information can help us understand the popularity of each genre and how well-represented each genre is in our dataset.
 
-
+***
