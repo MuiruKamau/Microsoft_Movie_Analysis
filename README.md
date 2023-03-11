@@ -112,4 +112,12 @@ We filtered the movies_mini DataFrame to only include movies with gross earnings
 
 We created a new DataFrame called <span style="background-color: #3d3d3d; color: #ffffff; padding: 2px 5px; border-radius: 3px;"> top_genre</span> by extracting only the 'genres' and 'title' columns from the movies_mini DataFrame. We then grouped the data by genre and counted the number of unique movie titles in each genre to get an idea of the number of movies in each genre. The resulting DataFrame was sorted by the number of movies in descending order. This information can help us understand the popularity of each genre and how well-represented each genre is in our dataset.
 
+
 ***
+
+## Results
+
+I evaluated each question individually.
+
+
+
