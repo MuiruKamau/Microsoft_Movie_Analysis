@@ -199,33 +199,17 @@ Based on the finding that Drama is the genre with the most movies produced, Micr
 
 Describe the structure of your repository and its contents, for example:
 
+```
 
-
-
-├── images                                                      <- Both sourced externally and generated from code
+├── images                              <- Both sourced externally and generated from code
 
 ├── zippedData                          <- Both sourced externally and generated from code
 
-├── README.md                           <- The top-level README for reviewers of this project
+├── README.md                           <- The top-level README for reviewers of this 
+project
 
-├── Microsoft_Movie_Analysis.ipynb   <- Narrative documentation of analysis in Jupyter notebook
+├── Microsoft_Movie_Analysis.ipynb   <- Narrative documentation of analysis in Jupyter 
 
 └── Microsoft_Movie_Analysis.pdf                    <- PDF version of project presentation
 
-├── README.md                                   <- The top-level README for reviewers of this project
-├── microsoft-tenne-project.ipynb               <- Narrative documentation of analysis in Jupyter notebook
-├── microsoft-tenne-project-presentation.pdf    <- PDF version of project presentation
-├── code
-│   ├── __init__.py                             <- .py file that signals to python these folders contain packages
-├── data/zippedData                             <- Both sourced externally and generated from code
-└── images                                      <- Both sourced externally and generated from code
-```
-├── README.md
-├── microsoft-tenne-project.ipynb
-├── microsoft-tenne-project-presentation.pdf
-├── code
-│   ├── __init__.py
-├── data
-│   └── zippedData
-└── images
 ```
