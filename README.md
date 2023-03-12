@@ -208,8 +208,8 @@ Describe the structure of your repository and its contents, for example:
 ├── README.md                           <- The top-level README for reviewers of this 
 project
 
-├── Microsoft_Movie_Analysis.ipynb   <- Narrative documentation of analysis in Jupyter 
+├── Microsoft_Movie_Analysis.ipynb      <- Narrative documentation of analysis in Jupyter 
 
-└── Microsoft_Movie_Analysis.pdf                    <- PDF version of project presentation
+└── Microsoft_Movie_Analysis.pdf         <- PDF version of project presentation
 
 ```
