@@ -202,7 +202,7 @@ Describe the structure of your repository and its contents, for example:
 
 
 
-├── images                              <- Both sourced externally and generated from code
+├── images                                                      <- Both sourced externally and generated from code
 
 ├── zippedData                          <- Both sourced externally and generated from code
 
