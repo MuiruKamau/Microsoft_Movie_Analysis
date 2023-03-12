@@ -194,6 +194,18 @@ Based on the finding that Drama is the genre with the most movies produced, Micr
 
  For any additional questions, please contact Muiru Kamau [Email Me](mailto:muirubensonkamau@gmail.com)
 
+***
+## Repository Structure
 
+Describe the structure of your repository and its contents, for example:
+
+
+
+
+├── images                              <- Both sourced externally and generated from code
+├── zippedData                          <- Both sourced externally and generated from code
+├── README.md                           <- The top-level README for reviewers of this project
+├── Microsoft_Movie_Analysis.ipynb   <- Narrative documentation of analysis in Jupyter notebook
+└── Microsoft_Movie_Analysis.pdf                    <- PDF version of project presentation
 
 
