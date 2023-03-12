@@ -208,4 +208,11 @@ Describe the structure of your repository and its contents, for example:
 ├── Microsoft_Movie_Analysis.ipynb   <- Narrative documentation of analysis in Jupyter notebook
 └── Microsoft_Movie_Analysis.pdf                    <- PDF version of project presentation
 
+├── README.md                                   <- The top-level README for reviewers of this project
+├── microsoft-tenne-project.ipynb               <- Narrative documentation of analysis in Jupyter notebook
+├── microsoft-tenne-project-presentation.pdf    <- PDF version of project presentation
+├── code
+│   ├── __init__.py                             <- .py file that signals to python these folders contain packages
+├── data/zippedData                             <- Both sourced externally and generated from code
+└── images                                      <- Both sourced externally and generated from code
 
