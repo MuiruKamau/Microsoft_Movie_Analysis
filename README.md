@@ -219,7 +219,7 @@ Describe the structure of your repository and its contents, for example:
 │   ├── __init__.py                             <- .py file that signals to python these folders contain packages
 ├── data/zippedData                             <- Both sourced externally and generated from code
 └── images                                      <- Both sourced externally and generated from code
-
+```
 ├── README.md
 ├── microsoft-tenne-project.ipynb
 ├── microsoft-tenne-project-presentation.pdf
@@ -228,3 +228,4 @@ Describe the structure of your repository and its contents, for example:
 ├── data
 │   └── zippedData
 └── images
+```
